@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1140px" height="315px" viewBox="0 0 1140 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 31</title>
+    <g id="Artboard-Copy-31" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#00EB78" stroke-width="22" fill="#00EB78" x="16" y="16" width="1107" height="272" rx="8"></rect>
+        <text id="DEV" fill-rule="nonzero" font-family="Helvetica-Bold, Helvetica" font-size="249" font-weight="bold" fill="#FFFFFF">
+            <tspan x="27.142578" y="242">DEV</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#00EB78" stroke-width="8" fill="#FFFFFF" x="563" y="23" width="553" height="258" rx="8"></rect>
+        <text id="APP" fill-rule="nonzero" font-family="Helvetica-Bold, Helvetica" font-size="190" font-weight="bold" fill="#000000">
+            <tspan x="644.142578" y="222">APP</tspan>
+        </text>
+        <text id="_" fill-rule="nonzero" font-family="ChalkboardSE-Bold, Chalkboard SE" font-size="136" font-weight="bold" fill="#000000">
+            <tspan x="1000.14258" y="239">_</tspan>
+        </text>
+    </g>
+</svg>
